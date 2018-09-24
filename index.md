@@ -12,3 +12,14 @@
 ></div>
 <!-- This line can go anywhere -->
 <script src="https://api.moneybutton.com/moneybutton.js"></script>
+<style type="text/css">
+  .moneybutton.content {
+    border-color: #5bab86;
+  }
+  .moneybutton.circle {
+    background-color: #5bab86;
+  }
+  .moneybutton.cross path {
+    fill: #5bab86;
+  }
+</style>
