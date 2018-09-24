@@ -13,13 +13,13 @@
 <!-- This line can go anywhere -->
 <script src="https://api.moneybutton.com/moneybutton.js"></script>
 <style type="text/css">
-  .moneybutton.content {
+  .moneyButton .content {
     border-color: #5bab86;
   }
-  .moneybutton.circle {
+  .moneyButton .circle {
     background-color: #5bab86;
   }
-  .moneybutton.cross path {
+  svg.cross path {
     fill: #5bab86;
   }
 </style>
