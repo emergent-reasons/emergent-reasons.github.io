@@ -2,7 +2,6 @@
 layout: default
 ---
 
-<!-- This line should go where you want to put your button -->
 <div class="money-button"
   data-to="363"
   data-amount="1"
@@ -14,8 +13,6 @@ layout: default
   data-button-data="{}"
   data-type="tip"
 ></div>
-<!-- This line can go anywhere -->
-<script src="https://api.moneybutton.com/moneybutton.js"></script>
 
 
 ![BCH Accepted](assets/bch-accepted-jp.png)
