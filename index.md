@@ -21,3 +21,10 @@ This is a [MoneyButton](https://www.moneybutton.com/).
 - You can use it to accept payments for products also.
 - Small amounts are no problem.
 - There are [other ways to send](https://bitcoincashers.org/), but this is the fastest and easiest way on the web.
+
+
+----
+
+Identity Verifications:
+- [memo.cash](https://memo.cash/profile/1Ab9jdpVyr5kC5WALH3p8vbSYSP8NGVNbX)
+- [reddit](https://www.reddit.com/user/emergent_reasons)
