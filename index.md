@@ -16,12 +16,11 @@ This is a [MoneyButton](https://www.moneybutton.com/).
   data-type="tip"
 ></div>
 
-- It takes about one minute to make (no sign-up required).
-- You can accept tips from anyone in the world.
+- It takes about one minute to make.
+- You can accept tips or payments for your products from anyone in the world.
 - Only you have access to your money. The people who make MoneyButton do not.
-- Small amounts are no problem.
-- You can use it to accept payment for products also.
-- There are [other ways to send](https://bitcoincashers.org/), but this is the fastest and easiest way on the web.
+- Small amounts are not a problem because it is based on [Bitcoin Cash](https://bitcoincashers.org/).
+- There are [other ways to send](https://bitcoincashers.org/resources/wallets/), but this is the fastest and easiest way on the web.
 
 
 ----
