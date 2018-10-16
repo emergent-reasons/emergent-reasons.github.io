@@ -26,6 +26,24 @@ This is a [MoneyButton](https://www.moneybutton.com/).
 
 ----
 
+This is a [gateway.cash button](https://gateway.cash/)
+
+<div
+  class="payButton"
+  id="pay-unique-id-027354"
+  merchantID="1e9a3df29374e614"
+  paymentID="Tip gateway"
+  currency="BCH"
+  amount="0.0011"
+  buttonText="Try me"
+  dialogTitle="Bitcoin is Cash"
+></div>
+
+- It is similar to MoneyButton!
+- It uses QR codes so that you can send from any standard [Bitcoin Cash wallet](https://bitcoincashers.org/resources/wallets).
+
+----
+
 Identity Verifications:
 - [memo.cash](https://memo.cash/profile/1Ab9jdpVyr5kC5WALH3p8vbSYSP8NGVNbX)
 - [reddit](https://www.reddit.com/user/emergent_reasons)
